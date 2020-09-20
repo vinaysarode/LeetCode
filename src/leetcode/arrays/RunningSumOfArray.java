@@ -1,5 +1,5 @@
-package leetcode.examples; 
+package leetcode.arrays; 
 
 public class RunningSumOfArray {
-
+	
 }
